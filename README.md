@@ -4,7 +4,7 @@ Este programa es una herramienta para organizar tus archivos de manera automáti
 
 Por ejemplo, si tienes archivos de imágenes, los moverá a una carpeta llamada "Fotos" 📷. Si tienes videos, los colocará en una carpeta llamada "Videos" 🎥. Lo mismo ocurre con archivos de audio 🎵, documentos 📃, archivos comprimidos 📦 y otros archivos desconocidos ❓. De esta manera, podrás mantener tus archivos ordenados y encontrarlos más fácilmente.
 
-El programa no mueve ni modifica su propia ubicación ni el archivo de registro que genera, asegurándose de no afectar su funcionamiento.
+El programa no mueve ni modifica su propia ubicación ni el archivo de registro que genera, asegurándose de no afectar su funcionamiento. Además, ignora los ejecutables "exe" para evitar interferencias.
 
 Una vez que se ha ejecutado el programa, se generará un archivo de registro llamado "logs.txt" ✏️ que registra las acciones realizadas, como los archivos movidos y cualquier problema que pueda ocurrir durante el proceso.
 
@@ -20,7 +20,7 @@ Una vez que se ha ejecutado el programa, se generará un archivo de registro lla
 | 🎵 Audios    | mp3, wav, flac, aac, ogg, wma, mp2, amr, aiff, ac3, alac                                          |
 | 📄 Documentos| pdf, doc, docx, ppt, pptx, xls, xlsx, txt, rtf, csv, odp, odt, epub, mobi, djvu, ods, odf, xml, iml|
 | 📦 Comprimidos| zip, rar, 7z, tar, gzip, bzip2, xz, tar.gz, bz2, lzma, z, xz, gz, jar                             |
-| 🗂️ Otros      | Cualquier otro tipo de archivo que no se encuentre en las categorías anteriores                   |
+| 🗂️ Otros      | Cualquier otro tipo de archivo que no se encuentre en las categorías anteriores, excepto "exe"    |
 
 
 ## 📋 Requisitos
