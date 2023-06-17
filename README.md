@@ -17,3 +17,18 @@ Una vez que se ha ejecutado el programa, se generará un archivo de registro lla
 | Documentos | pdf, doc, docx, ppt, pptx, xls, xlsx, txt, rtf, csv, odp, odt, epub, mobi, djvu, ods, odf, xml, iml |
 | Comprimidos| zip, rar, 7z, tar, gzip, bzip2, xz, tar.gz, bz2, lzma, z, xz, gz, jar                         |
 | Otros      | Cualquier otro tipo de archivo que no se encuentre en las categorías anteriores               |
+
+## Requisitos
+- Java 8 o superior instalado en el sistema.
+- Archivo JAR del programa "Organizador.jar".
+
+## Instrucciones de uso
+
+1. Descarga el archivo JAR del programa desde [este enlace](https://github.com/cerotre/Organizador/raw/main/Organizador.jar).
+2. Asegúrate de tener Java 8 o una versión superior instalada en tu sistema.
+3. Haz doble clic en el archivo JAR descargado.
+4. El programa analizará la carpeta actual y organizará los archivos según su tipo en carpetas correspondientes.
+5. Revisa los logs generados para obtener información sobre el proceso de organización.
+
+¡Listo! Los archivos de la carpeta actual se organizarán automáticamente según su tipo en las carpetas correspondientes. Recuerda que el programa solo mueve los archivos y no se moverá a sí mismo ni al archivo de logs.
+
