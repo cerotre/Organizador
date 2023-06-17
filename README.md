@@ -1,7 +1,4 @@
 # Organizador
-Organiza los archivos de la carpeta donde se encuentra de manera automática.
-
-
 Este programa es una herramienta para organizar tus archivos de manera automática. Al ejecutarlo, revisa todos los archivos **en la carpeta donde se encuentra** y los mueve a carpetas específicas según su tipo de archivo (creadas por el programa).
 
 Por ejemplo, si tienes archivos de imágenes, los moverá a una carpeta llamada "Fotos". Si tienes videos, los colocará en una carpeta llamada "Videos". Lo mismo ocurre con archivos de audio, documentos, archivos comprimidos y otros archivos desconocidos. De esta manera, podrás mantener tus archivos ordenados y encontrarlos más fácilmente.
