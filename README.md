@@ -1,4 +1,4 @@
-# Organizador 📂
+# 📂 Organizador 
 
 Este programa es una herramienta para organizar tus archivos de manera automática. Al ejecutarlo, revisa todos los archivos **en la carpeta donde se encuentra** y los mueve a carpetas específicas según su tipo de archivo (creadas por el programa).
 
@@ -11,7 +11,7 @@ Una vez que se ha ejecutado el programa, se generará un archivo de registro lla
 ¡Mantén tus archivos organizados con facilidad! 📂💡
 
 
-## Formatos ✏️
+## ✏️ Formatos 
 
 | Categoría    | Tipos de archivo                                                                                |
 |--------------|-------------------------------------------------------------------------------------------------|
@@ -23,11 +23,11 @@ Una vez que se ha ejecutado el programa, se generará un archivo de registro lla
 | 🗂️ Otros      | Cualquier otro tipo de archivo que no se encuentre en las categorías anteriores                   |
 
 
-## Requisitos
+## 📋 Requisitos
 - 📋 Java 8 o superior instalado en el sistema.
 - 📦 Archivo JAR del programa "Organizador.jar".
 
-## Instrucciones de uso
+## 📝 Instrucciones de uso
 
 1. 📥 Descarga el archivo JAR del programa desde [este enlace](https://github.com/cerotre/Organizador/raw/main/Organizador.jar).
 2. ✅ Asegúrate de tener Java 8 o una versión superior instalada en tu sistema.
