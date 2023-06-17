@@ -11,16 +11,16 @@ Una vez que se ha ejecutado el programa, se generará un archivo de registro lla
 ¡Mantén tus archivos organizados con facilidad! 📂💡
 
 
-## ✏️ Formatos 
+## ✏️ Formatos
 
-| Categoría    | Tipos de archivo                                                                                |
-|--------------|-------------------------------------------------------------------------------------------------|
-| 📷 Fotos     | jpg, png, gif, jpeg, bmp, tiff, svg, webp, raw, psd, cr2, nef, arw, eps, tiff, svgz, jfif        |
-| 🎥 Videos    | mp4, mov, avi, wmv, mkv, flv, mpeg, 3gp, webm, ogv, m4v, rm, vob, 3g2, webm                       |
-| 🎵 Audios    | mp3, wav, flac, aac, ogg, wma, mp2, amr, aiff, ac3, alac                                          |
-| 📄 Documentos| pdf, doc, docx, ppt, pptx, xls, xlsx, txt, rtf, csv, odp, odt, epub, mobi, djvu, ods, odf, xml, iml|
-| 📦 Comprimidos| zip, rar, 7z, tar, gzip, bzip2, xz, tar.gz, bz2, lzma, z, xz, gz, jar                             |
-| 🗂️ Otros      | Cualquier otro tipo de archivo que no se encuentre en las categorías anteriores, excepto "exe"    |
+| Categoría     | Tipos de archivo                                                                                   |
+|--------------|--------------------------------------------------------------------------------------------------|
+| 📷 Fotos     | jpg, png, gif, jpeg, bmp, tiff, svg, webp, raw, psd, cr2, nef, arw, eps, tiff, svgz, jfif, tga, pcx, ai  |
+| 🎥 Videos    | mp4, mov, avi, wmv, mkv, flv, mpeg, 3gp, webm, ogv, m4v, rm, vob, 3g2, webm, m2v, m3v                    |
+| 🎵 Audios    | mp3, wav, flac, aac, ogg, wma, mp2, amr, aiff, ac3, alac                                              |
+| 📄 Documentos| pdf, doc, docx, ppt, pptx, xls, xlsx, txt, rtf, csv, odp, odt, epub, mobi, djvu, ods, odf, xml, iml   |
+| 📦 Comprimidos| zip, rar, 7z, tar, gzip, bzip2, xz, tar.gz, bz2, lzma, z, xz, gz, jar, gz, tgz                          |
+| 🗂️ Otros      | Cualquier otro tipo de archivo que no se encuentre en las categorías anteriores, excepto "exe"     |
 
 
 ## 📋 Requisitos
