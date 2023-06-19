@@ -37,4 +37,8 @@ Una vez que se ha ejecutado el programa, se generará un archivo de registro lla
 
 ¡Listo! Los archivos de la carpeta actual se organizarán automáticamente según su tipo en las carpetas correspondientes. Recuerda que el programa solo mueve los archivos y no se moverá a sí mismo ni al archivo de logs.
 
-
+## Versiones
+| Version     | Interfaz gráfica      |
+|--------------|----------------------|
+| 1.0.0 | ❌ |
+| 1.0.1 | ✔ | 
