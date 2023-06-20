@@ -43,3 +43,4 @@ Una vez que se ha ejecutado el programa, se generará un archivo de registro lla
 | 1.0.0 | ❌ | -|
 | 1.0.1 | ✔ | JavaFX |
 | 1.0.2 | ✔ | Swing |
+| 1.0.3 | ✔ | Swing |
